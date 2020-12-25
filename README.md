@@ -5,3 +5,4 @@ Translation management for individual. Compare, edit all files with one click an
 ## Supported file formate
 
 - JSON
+- Sample
